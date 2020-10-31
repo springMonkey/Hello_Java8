@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 
 /**
  * Created on 2020/10/31 17:52
- * <p>Title: 函数式接口测试 </p>
+ * <p>Title: 函数式接口：有且只有一个抽象函数的接口
  * <p>Description: []</p>
  *
  * @version 1.0
