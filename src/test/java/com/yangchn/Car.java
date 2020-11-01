@@ -6,7 +6,6 @@ import java.util.function.Supplier;
  * @author yangchn
  * @Description
  * @date 2020年10月30日
- * Copyright neusoft (c) 2020 .
  */
 public class Car {
 

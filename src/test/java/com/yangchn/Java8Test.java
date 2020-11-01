@@ -11,7 +11,6 @@ import java.util.List;
  * @author yangchn
  * @Description
  * @date 2020年10月29日
- * Copyright neusoft (c) 2020 .
  */
 public class Java8Test {
 
